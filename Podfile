@@ -11,7 +11,7 @@ target 'Swift SDK' do
 
   # Pods for Swift SDK
 
-  pod 'UberRides', :path => '../../'
-  pod 'UberCore', :path => '../../'
+  pod 'UberRides', '~> 0.11'
+  pod 'UberRides', '~> 0.11'
 
 end
